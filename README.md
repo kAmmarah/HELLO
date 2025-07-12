@@ -1,5 +1,3 @@
----
-
 ```markdow
 # 🤖 Gemini AI Agent
 
